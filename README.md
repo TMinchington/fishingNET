@@ -1,4 +1,6 @@
+-------------
 fishingNET.py
+--------------
 
 Used to look at specific interactions within the network from Minchington et al. 2020. Dynamical gene regulatory networks are tuned by transcriptional autoregulation with microRNA feedback. Sci Rep. 2020 Jul 31;10(1):12960. doi: 10.1038/s41598-020-69791-5. PMID: 32737375; PMCID: PMC7395740.
 
